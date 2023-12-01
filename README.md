@@ -1,12 +1,10 @@
-### Hi there 👋
 
-[![MasterHead](https://asset.cloudinary.com/ds7ld7kqo/e65f2ff473d623de3a2588840862a401)]
+
+
 <h1 align="center">Hi 👋, I'm Anitha Sai Sadhanala</h1>
 <h3 align="center">A passionate Full Stack web developer from India!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anithasadhanala" alt="anithasadhanala" /></a> </p>
 
-- 🌱 I’m currently learning **Django, REST API**
 
 - 👨‍💻 All of my projects are available at [https://anithasadhanala.github.io/portfolio/](https://anithasadhanala.github.io/portfolio/)
 
