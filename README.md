@@ -16,6 +16,7 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 - 📫 How to reach me **anithasaisadhanala@gmail.com**
 
 - ⚡ Fun fact **I have 19 fingers, B'cze indexing starts from Zero!!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithasadhanala&" alt="anithasadhanala" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
