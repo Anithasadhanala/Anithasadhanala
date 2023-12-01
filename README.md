@@ -6,8 +6,8 @@
 
 
 
-- 👨‍💻 All of my projects are available at [Potfolio](https://anithasadhanala.github.io/portfolio/)
-- 
+- 👨‍💻 All of my projects are available at [Portfolio](https://anithasadhanala.github.io/portfolio/)
+
 - 📫 How to reach me **anithasaisadhanala@gmail.com**
 
 - ⚡ Fun fact **I have 19 fingers, B'cze indexing starts from Zero!!**
