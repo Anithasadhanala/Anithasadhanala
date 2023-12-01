@@ -22,9 +22,8 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anithasaisadhanala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anithasaisadhanala/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21184423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21184423" height="30" width="40" /></a>
 <a href="https://instagram.com/albertrose.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertrose.24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anitha_sai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anitha_sai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anithasai26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anithasai26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/murthy260722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="murthy260722" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
