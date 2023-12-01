@@ -6,11 +6,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://anithasadhanala.github.io/portfolio/](https://anithasadhanala.github.io/)
+- 👨‍💻 All of my projects are available at [LINK](https://anithasadhanala.github.io/portfolio/)
 
 - 📫 How to reach me **anithasaisadhanala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ednZmMvht0MLgqXEaUXwz9ePwLjHYBSL/view?usp=sharing](https://drive.google.com/file/d/1ednZmMvht0MLgqXEaUXwz9ePwLjHYBSL/view?usp=sharing)
+- 📄 Know about my experiences [LINK](https://drive.google.com/file/d/1ednZmMvht0MLgqXEaUXwz9ePwLjHYBSL/view?usp=sharing)
 
 - ⚡ Fun fact **I have 19 fingers, B'cze indexing starts from Zero!!**
 
