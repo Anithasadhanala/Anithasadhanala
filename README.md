@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://anithasadhanala.github.io/portfolio/](https://anithasadhanala.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://anithasadhanala.github.io/portfolio/](https://anithasadhanala.github.io/)
 
 - 📫 How to reach me **anithasaisadhanala@gmail.com**
 
