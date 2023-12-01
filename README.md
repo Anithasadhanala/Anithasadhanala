@@ -18,7 +18,7 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 
 - ⚡ Fun fact **I have 19 fingers, B'cze indexing starts from Zero!!**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithasadhanala&" alt="anithasadhanala" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithasadhanala&" alt="anithasadhanala" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -30,7 +30,7 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anithasadhanala&show_icons=true&locale=en&layout=compact" alt="anithasadhanala" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anithasadhanala&show_icons=true&locale=en&layout=compact" alt="anithasadhanala" /></p>
 
 
 <!--
