@@ -17,10 +17,11 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 - 📫 How to reach me **anithasaisadhanala@gmail.com**
 
 - ⚡ Fun fact **I have 19 fingers, B'cze indexing starts from Zero!!**
+- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithasadhanala&" alt="anithasadhanala" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anithasaisadhanala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anithasaisadhanala/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21184423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21184423" height="30" width="40" /></a>
 <a href="https://instagram.com/albertrose.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertrose.24" height="30" width="40" /></a>
