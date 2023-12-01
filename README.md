@@ -32,7 +32,6 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anithasadhanala&show_icons=true&locale=en&layout=compact" alt="anithasadhanala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithasadhanala&" alt="anithasadhanala" /></p>
 
 <!--
 **Anithasadhanala/Anithasadhanala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
