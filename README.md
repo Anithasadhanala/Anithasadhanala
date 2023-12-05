@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anitha</h1>
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <h3 align="center">A passionate Full Stack web developer from India!!</h3>
 
 
