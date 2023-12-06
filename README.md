@@ -13,7 +13,7 @@ I am looking forward to collaborate on Open-Source Projects.
 I am a professional in scalable and extensible coding using the design patterns of Software Development majorly in MERN stack web Technology!!! </br>
 I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in Javascript,C++.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://anithasadhanala.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [website](https://anithasadhanala.github.io/portfolio/)
 
 - 📫 How to reach me **anithasaisadhanala@gmail.com**
 
