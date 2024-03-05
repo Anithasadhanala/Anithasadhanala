@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Anitha</h1>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anithasadhanala.Anithasadhanala&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anithasadhanala&"  />
 </div>
-<h3 align="center">A passionate Full Stack web developer based in India!!</h3>
+<h3 align="center">Passionate Full Stack web developer based in India!!</h3>
 
 
 I am a self driven passionate coder who loves to solve problems and write efficient codes.
