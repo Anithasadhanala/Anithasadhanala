@@ -17,8 +17,14 @@ I am just trying to impart my knowledge via repositories which will be quite hel
 
 - ⚡ Fun fact **I have 19 fingers, B'cze indexing starts from Zero!!**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anithasadhanala&" alt="anithasadhanala" /></p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anithasaisadhanala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anithasaisadhanala/" height="30" width="40" /></a>
@@ -46,3 +52,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
