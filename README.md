@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anitha</h1>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anithasadhanala&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anithasadhanala.anithasadhanala&"  />
 </div>
 <h3 align="center">Passionate Full Stack web developer based in India!!</h3>
 
