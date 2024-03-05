@@ -12,7 +12,7 @@ I am a self driven passionate coder who loves to solve problems and write effici
 I am looking forward to collaborate on Open-Source Projects. 
 I am a professional in scalable and extensible coding using the design patterns of Software Development majorly in MERN stack web Technology!!! </br>
 
-- 📫 How to reach me **anithasaisadhanala@gmail.com**
+ Reach out to me **anithasaisadhanala@gmail.com**
 
 
 ###
